@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseCloudFunctionsExample</string>
+    <string name="heading_add_numbers">Add two numbers</string>
+    <string name="plus">+</string>
+    <string name="equals">=</string>
+    <string name="calculate">Calculate</string>
+</resources>
